@@ -9,7 +9,7 @@ obj.__index = obj
 obj.name = "WinMove"
 obj.version = "1.0"
 obj.author = "fwolter <frederik.wolter@googlemail.com>"
-obj.homepage = "https://github.com/rampage128/WinMove"
+obj.homepage = "https://github.com/rampage128/WinMove.spoon"
 obj.license = "MIT - https://opensource.org/licenses/MIT"
 
 -- Enum for window positions
